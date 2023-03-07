@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+__pycache__
+sitebuilder_secrets.py
+data
+new
+original
+venv
+*egg-info
